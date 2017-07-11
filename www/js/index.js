@@ -16,7 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-var mainurl = 'http://www.kimhauser.ch';
+var mainurl = 'http://expertlms.training';
 
 var app = {
 
