@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="ch.kimhauser.cordova.kickstartwebsite" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>HTML5 Test App</name>
+    <name>kimhauser.ch</name>
     <description>
         A kick-start cordova application for websites
     </description>
-    <author email="kim@kimhauser.ch" href="http://expertlms.training">
+    <author email="rjephcote@skynoodle.co.uk" href="http://skynoodle.co.uk">
         Kim David Hauser
     </author>
     <content src="index.html" />
